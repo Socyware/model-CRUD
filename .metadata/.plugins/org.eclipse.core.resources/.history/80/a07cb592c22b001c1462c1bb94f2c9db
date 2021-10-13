@@ -1,0 +1,5 @@
+package com.socyware.modelcrud.dto;
+
+public class CategoryDTO {
+
+}
